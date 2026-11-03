@@ -1,6 +1,6 @@
 cask "media-overlay" do
-  version "0.3.0"
-  sha256 "2ee8e4a822a4ab3441d54e614f9a24132fc502f4e7cfd1e6fc71516c698ea882"
+  version "0.4.0"
+  sha256 "2fdf12f9e24607719f993c9a5b60c08efc69cbefd8f417ab7d215fafde9496e0"
 
   url "https://github.com/dionatanlaranjeira/media-overlay-releases/releases/download/v#{version}/MediaOverlay-#{version}.zip"
   name "Media Overlay"
